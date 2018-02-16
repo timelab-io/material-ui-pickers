@@ -1,7 +1,6 @@
 {
   "name": "@timelab/material-ui-pickers",
-  "version": "1.0.0-beta.15.1",
-  "private": true,
+  "version": "1.0.0-beta.15.1-1",
   "description": "React components, that implements material design pickers for material-ui v1",
   "main": "build/dist/material-ui-pickers.cjs.js",
   "module": "build/dist/material-ui-pickers.es.js",
